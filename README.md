@@ -1,1 +1,2 @@
-
+The decompressed "Music.rar" archive contains the training dataset, experimentally generated sample, and converted audio files.
+The other folders include the scripts for computing the log-likelihood function, KL divergence, phase masks, time and energy benchmarks, and the wavelength-channel crosstalk.
